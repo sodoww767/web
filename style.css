@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(85, 81, 81);
+}
+
+p {
+    color: rgb(0, 255, 34);
+}
+
+h1 {color: rgba(15, 124, 154, 0.463);
+    font-size: 90px;
+    border: 2px solid black ;
+}
+
+h2 {color: rgb(196, 196, 255);}
+
+h3 {color: rgba(207, 0, 0, 0.597);}
+
+h4 {color: rgb(6, 184, 255);}
+
+h5 {color: rgb(2, 50, 6);}
+
+h6 {color: rgb(254, 0, 178);}
